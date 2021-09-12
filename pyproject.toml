@@ -1,0 +1,6 @@
+[build-system]
+requires = [
+    "urllib3",
+    "json",
+    "nonebot2"
+]
