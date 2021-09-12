@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+nonebot_plugin_bilibilicover/__init__.py
+nonebot_plugin_bilibilicover.egg-info/PKG-INFO
+nonebot_plugin_bilibilicover.egg-info/SOURCES.txt
+nonebot_plugin_bilibilicover.egg-info/dependency_links.txt
+nonebot_plugin_bilibilicover.egg-info/requires.txt
+nonebot_plugin_bilibilicover.egg-info/top_level.txt

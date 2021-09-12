@@ -22,6 +22,12 @@ python install nonebot-plugin-bilibilicover
 
 ## 开始使用
 
+在 bot.py 中添加插件：
+
+```python
+nonebot.load_plugin("nonebot_plugin_bilibilicover")
+```
+
 示例命令：
 
 ```
